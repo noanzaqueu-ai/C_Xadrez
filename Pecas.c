@@ -14,7 +14,7 @@ void EscolhaDePeca()
 {
     do
     {
-        printf("Escolha a peça!\n");
+        printf("escolha a peça!\n");
         printf("1. Torre\n");
         printf("2. Bispo\n");
         printf("3. Rainha\n");
